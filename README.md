@@ -1,7 +1,7 @@
 ------E-Commerce customer Analysis Dashboard--------
 
 Project Overview
-This project analyzes e-commerce sales data using SQL and Power BI to generate business insights.
+This project analyzes e-commerce customer data using SQL and Power BI to generate business insights.
 
  Tools Used
 - SQL (PostgreSQL)
